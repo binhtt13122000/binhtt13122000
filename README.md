@@ -1,8 +1,9 @@
 ### Hi there, I'm Trương Thanh Bình, 👋
 
 - 🌱 I’m currently learning in FPT University
-- ⚡ I'm the former of FCode Club.
+- ⚡ I'm the former president of [FCode Club](https://www.facebook.com/fcodefpt/).
 - 🔭 I'm a Web developer.
+- 😔 I'm working with my Capstone Project and researching about Hyperledge Fabric. I think it's too hard for me😔. 
 - 🤔 Updating...
 
 <img src="https://github-readme-stats.vercel.app/api?username=binhtt13122000&theme=gruvbox&show_icons=true" height="170em" />
