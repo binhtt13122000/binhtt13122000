@@ -1,5 +1,10 @@
 ### Hi there, I'm Trương Thanh Bình, 👋
 
+- 🌱 I’m currently learning in FPT University
+- ⚡ I'm the former of FCode Club.
+- 🔭 I'm a Web developer.
+- 🤔 Updating...
+
 <img src="https://github-readme-stats.vercel.app/api?username=binhtt13122000&theme=gruvbox&show_icons=true" height="170em" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=binhtt13122000&show_icons=true&locale=en&layout=compact" height="170em" />
 <!--
