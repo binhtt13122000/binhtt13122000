@@ -1,7 +1,7 @@
 ### Hi there, I'm Trương Thanh Bình, 👋
 
-![Binhtt's github stats](https://github-readme-stats.vercel.app/api?username=binhtt13122000&theme=gruvbox&show_icons=true =170x)
-![Most used language](https://github-readme-stats.vercel.app/api/top-langs?username=binhtt13122000&show_icons=true&locale=en&layout=compact =170x)
+<img src="https://github-readme-stats.vercel.app/api?username=binhtt13122000&theme=gruvbox&show_icons=true" height="170em" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=binhtt13122000&show_icons=true&locale=en&layout=compact" height="170em" />
 <!--
 **binhtt13122000/binhtt13122000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
